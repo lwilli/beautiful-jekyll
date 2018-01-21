@@ -10,3 +10,6 @@ ehthumbs.db
 
 # vim undo
 *.un~
+
+# Project todos
+TODOS.txt

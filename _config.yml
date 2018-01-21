@@ -23,14 +23,16 @@ description: Logan Williams' home on the internet.
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
+  Projects: "projects"
   About Me: "aboutme"
-  Projects: 
-    - WeatherCompare: "https://lwilli.github.io/WeatherCompare/"
-    - Pigeon Toady: "https://lwilli.github.io/PigeonToady/"
+  #Project Links: 
+  #  - WeatherCompare: "https://lwilli.github.io/WeatherCompare/"
+  #  - Pigeon Toady: "https://lwilli.github.io/PigeonToady/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -69,11 +71,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "loganwilliams116@gmail.com"
+  # rss: false
   #  facebook: daattali
   github: lwilli
   linkedin: loganwilliams1
+  email: "loganwilliams116@gmail.com"
   #  twitter: daattali
   #  reddit: yourname
   #  google-plus: +DeanAttali
