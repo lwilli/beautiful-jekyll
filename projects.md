@@ -4,7 +4,7 @@ title: Projects
 subtitle: A few things I've built
 ---
 
-## [WeatherComp](https://lwilli.github.io/WeatherComp/)
+## [WeatherComp](https://lwilli.github.io/WeatherCompare/)
 Easily compare the current weather between two cities.
 
 WeatherComp is an entirely client-side application, built with React.js and using weather data from [DarkSky](https://darksky.net/poweredby/).
