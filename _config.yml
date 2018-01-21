@@ -106,7 +106,7 @@ url-pretty: "lwilli.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "98350226"
+google_analytics: "UA-98350226-3"
 
 # Google Tag Manager ID
 gtm: "GTM-526N58B"
